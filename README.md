@@ -85,7 +85,8 @@ src="https://skillicons.dev/icons?i=vite,react,github,javascript,flutter,dart,fi
 </div>
 <a href="https://github.com/QusaiAlbonni?tab=followers">
 <img src="https://img.shields.io/github/followers/MajdAlkatan?label=Followers&amp;style=social" style="max-width: 100%;"></a>
-<div align="center"><h1 align="center" >
+<div align="center">
+<h1 align="center" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=35&pause=1000&width=500&height=70&lines=Thank+you+for+visiting!;Follow+me+for+project+updates;+It+would+be+an+honor+;if+you+checked+out+my+profile;Feel+free+to+send+me+a+message;about+anything+you'd+like+to" alt="Typing SVG" /></a>
 </h1>
 </div>

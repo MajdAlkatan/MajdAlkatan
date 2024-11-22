@@ -57,7 +57,7 @@ and mobile interfaces using Flutter
 <div align="center">
 <a href="https://skillicons.dev">
 <img
-src="https://skillicons.dev/icons?i=vite,react,github,javascript,flutter,dart,firebase,c,nodejs,java,figma,html,css,mui,git,vscode,bootstrap,tailwind,redux,"
+src="https://skillicons.dev/icons?i=vite,react,github,javascript,flutter,dart,firebase,c,nodejs,java,figma,html,css,mui,git,vscode,bootstrap,tailwind,redux,postman"
 />
 </a>
 </div>

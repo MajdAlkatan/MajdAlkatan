@@ -1,9 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MajdAlkatan.MajdAlkatan"/>
 <h1 align ="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&center=true&vCenter=true&weight=500&size=35&pause=1000&width=500&height=70&lines=%F0%9F%9A%80+Greetings!+;I'm+Majd+Al-Kattan+;a+great+project+engineer+%F0%9F%96%A5%EF%B8%8F%F0%9F%94%AE" alt="Typing SVG" /></a>
-</h3>
-<h2 align="cnter">I am a passionate software developer from Syria 🇸🇾, deeply committed to the art and science of coding. 🚀</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo 2&center=true&vCenter=true&weight=500&size=35&pause=1000&width=500&height=70&lines=%F0%9F%9A%80+Greetings!+;I'm+Majd+Al-Kattan+;a+great+project+engineer+%F0%9F%96%A5%EF%B8%8F%F0%9F%94%AE" alt="Typing SVG" /></a>
+</h1>
+<h2 align="cnter">I am a passionate software developer from Syria 🇸🇾, deeply committed to the art and science of coding. 🚀</h2>
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" height="10"><div align="center">
  👀 I'm interested in developing front-end interfaces 
 
@@ -66,7 +66,27 @@ src="https://skillicons.dev/icons?i=vite,react,github,javascript,flutter,dart,fi
 <br/>
 <br/>
 <div align="center">
-<h2>🌌 My Contributions 🌌</h2>
-<br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MajdAlkatan/MajdAlkatan/output/github-contribution-grid-snake.svg"/>
+<h2>🌌 My Stats 🌌</h2>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MajdAlkatan&theme=github-dark-blue&hide_border=true&border_radius=16&date_format=M%20j%5B%2C%20Y%5D" />
+
 </div>
+
+
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=MajdAlkatan&count_private=true&theme=react&hide_border=true&bg_color=0D1117&size_weight=0.58&count_weight=0.58&exclude_repo=github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajdAlkatan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+<br>
+
+<br/>
+<br/>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" height="10">
+<div>
+<h2> 🪐Followers:</h2>
+</div>
+<a href="https://github.com/QusaiAlbonni?tab=followers">
+<img src="https://img.shields.io/github/followers/MajdAlkatan?label=Followers&amp;style=social" style="max-width: 100%;"></a>
+<div align="center"><h1 align="center" >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=35&pause=1000&width=500&height=70&lines=Thank+you+for+visiting!;Follow+me+for+project+updates;+It+would+be+an+honor+;if+you+checked+out+my+profile;Feel+free+to+send+me+a+message;about+anything+you'd+like+to" alt="Typing SVG" /></a>
+</h1>
+</div>
+

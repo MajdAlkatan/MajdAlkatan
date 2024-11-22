@@ -1,9 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MajdAlkatan.MajdAlkatan"/>
 <h1 align ="center">
-<a href="https://git.io/typing-svg">
+
 <img src="https://readme-typing-svg.herokuapp.com/?
 font=righteous&size=35&center=true&vCenter=true&width=500&hight70&duration=4000&lines=🚀+ +Greetings!; I'm+Majd+Al-Kattan+,a+ great+ projects+ engineer+ +🖥️+🔮;"/>
-</a>
 </h1>
 <h3 align="cnter">I am a passionate software developer from Syria 🇸🇾, deeply committed to the art and science of coding. 🚀</h3>
 <br/>

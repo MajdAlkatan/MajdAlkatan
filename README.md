@@ -77,6 +77,10 @@ src="https://skillicons.dev/icons?i=vite,react,github,javascript,flutter,dart,fi
 <a href="https://github.com/MajdAlkatan/github-readme-stats"><img alt="King of all time" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajdAlkatan&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=ture&count_private=false&layout=compact" style="max-width: 100%;">
 </a>
 <br>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" height="10">
+<div align="center">
+ <img src="https://github-contributor-stats.vercel.app/api?username=MajdAlkatan&limit=5&theme=buefy&hide_border=true&bg_color=0D1117&combine_all_yearly_contributions=true"/>
+</div>
 
 <br/>
 <br/>
